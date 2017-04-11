@@ -19,7 +19,9 @@ func main() {
 
 	hostName, _ := os.Hostname()
 
-	msg := fmt.Printf("Application Demo B - host: %v\n", hostName)
+	msg := fmt.Sprintf("Application Demo C - host: %v\n", hostName)
+
+	fmt.Println(msg)
 
 	// Route => handler
 	e.GET("/", func(c echo.Context) error {
