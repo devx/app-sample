@@ -1,0 +1,90 @@
+{
+    "memo": "d78a9c90416e9116b75be9d40c2c860649866d44fcc58a439ee438cd66f6a84b",
+    "projects": [
+        {
+            "name": "github.com/dgrijalva/jwt-go",
+            "version": "v3.0.0",
+            "revision": "d2709f9f1f31ebcda9651b03077758c1f3a0018c",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/labstack/echo",
+            "version": "v3.0.3",
+            "revision": "8d504c1b699c757b267255c53b3e5219f9974abc",
+            "packages": [
+                ".",
+                "middleware"
+            ]
+        },
+        {
+            "name": "github.com/labstack/gommon",
+            "version": "v0.2.0",
+            "revision": "9cedb429ffbe71a32a3ae7c65fd109cb7ae07804",
+            "packages": [
+                "bytes",
+                "color",
+                "log",
+                "random"
+            ]
+        },
+        {
+            "name": "github.com/mattn/go-colorable",
+            "version": "v0.0.7",
+            "revision": "d228849504861217f796da67fae4f6e347643f15",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mattn/go-isatty",
+            "version": "v0.0.1",
+            "revision": "3a115632dcd687f9c8cd01679c83a06a0e21c1f3",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/tylerb/graceful",
+            "version": "v1.2.15",
+            "revision": "4654dfbb6ad53cb5e27f37d99b02e16c1872fbbb",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/valyala/bytebufferpool",
+            "branch": "master",
+            "revision": "e746df99fe4a3986f4d4f79e13c1e0117ce9c2f7",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/valyala/fasttemplate",
+            "branch": "master",
+            "revision": "dcecefd839c4193db0d35b88ec65b4c12d360ab0",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "golang.org/x/crypto",
+            "branch": "master",
+            "revision": "9ef620b9ca2f82b55030ffd4f41327fa9e77a92c",
+            "packages": [
+                "acme",
+                "acme/autocert"
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "branch": "master",
+            "revision": "f3918c30c5c2cb527c0b071a27c35120a6c0719a",
+            "packages": [
+                "unix"
+            ]
+        }
+    ]
+}
